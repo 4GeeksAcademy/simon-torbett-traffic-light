@@ -1,4 +1,39 @@
-
+#barra{
+    background-color: black;
+    width: 20px;
+    height: 150px;
+    margin: auto;
+  }
+  
+  #semaforo{
+    background-color: black;
+    width: 150px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+    padding-top: 15px;
+  }
+  .luz{
+    margin: auto;
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+  }
+  .roja{
+    background-color: red;
+  }
+  
+  .amarilla{
+    margin-top: 10px;
+    background-color: yellow;
+  }
+  .verde{
+    margin-top: 10px;
+    background-color: green;
+  }
+  .brillo{
+    box-shadow: 0 0 30px #FFFFFF;
+  }
 /* 
 
     You can write your own styles here...
